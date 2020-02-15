@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 public class DomashkaOdinZadanieOdin {
     @Test
-    public void DomashkaOdin (){
+    public void domashkaOdin (){
         String marka = "Жига";
         String probeg = "999999";
         String cena = "00.01";
