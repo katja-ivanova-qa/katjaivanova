@@ -71,7 +71,7 @@ public class DelfiHomework {
         LOGGER.info("Click on comments");
         commentElement.click();
 
-        LOGGER.info("Find article title on comments page");
+        LOGGER.info("Find article title in comments page");
         WebElement commentArticleTitle = driver.findElement(By.className("article-title"));
 
         LOGGER.info("Find article title and save it");
